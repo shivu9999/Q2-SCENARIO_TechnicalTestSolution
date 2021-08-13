@@ -1,0 +1,21 @@
+location_acronym = "use"
+application_acronym = "maerks"
+environment_acronym = "dev"
+location = "eastus"
+subscription_id = "892cf661-55c9-4d90-9dc8-c06e7624af20" 
+client_id = "640b99f1-8287-4f30-8adb-04bbb56edd81"
+client_secret = ""
+tenant_id ="dddb3b37-c1d8-42b1-adfa-c1d19f92ebd0"
+corevnetname="co-eastus-core-vnet"
+corevnetrg ="co-eastus-core-rg"
+subnet1="subnetname1"
+subnet2="subnetname2"
+vnet_address_space="10.51.39.0/21"
+sunet_address_space1="10.51.39.0/27"
+sunet_address_space1="10.51.39.128/27"
+vmpassword1=""
+vmpassword2""
+machine_disk_size="standared_d16s_V3"
+
+
+
